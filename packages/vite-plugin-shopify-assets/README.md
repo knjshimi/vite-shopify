@@ -6,8 +6,6 @@
 
 Created to be used alongside [vite-plugin-shopify](https://github.com/barrel/shopify-vite/tree/main/packages/vite-plugin-shopify), for those who need to watch static assets, keeping the Shopify theme assets folder always in sync.
 
-This plugin is not yet stable, so _use at your own risk_.
-
 Please give your feedback, and send me any questions. A better documentation is in progress.
 
 ## Installation
